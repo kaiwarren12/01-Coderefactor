@@ -173,7 +173,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -181,9 +181,15 @@ p {
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
-.social-media-marketing h2 {
+/* .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
+
+/* I commented out these h2 tags and created a single h2 css that all three had previously shared. */
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
